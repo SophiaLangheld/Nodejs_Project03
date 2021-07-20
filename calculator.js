@@ -29,4 +29,4 @@ module.exports = {
     subtract,
     multiplication,
     division,
-}                                        /* Methode 3 */
+}                                        /* Methode 4 */
